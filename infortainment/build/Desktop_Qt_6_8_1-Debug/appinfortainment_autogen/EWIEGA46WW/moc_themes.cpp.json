@@ -1,0 +1,57 @@
+{
+    "classes": [
+        {
+            "className": "Themes",
+            "lineNumber": 6,
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "Istheme",
+                    "notify": "IsthemeChanged",
+                    "read": "Istheme",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIstheme"
+                }
+            ],
+            "qualifiedClassName": "Themes",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "IsthemeChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "newIstheme",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "setIstheme",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "themes.h",
+    "outputRevision": 68
+}

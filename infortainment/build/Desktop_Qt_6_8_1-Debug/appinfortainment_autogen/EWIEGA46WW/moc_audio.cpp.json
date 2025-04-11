@@ -1,0 +1,57 @@
+{
+    "classes": [
+        {
+            "className": "audio",
+            "lineNumber": 6,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "volumeAdjust",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "audiolevel",
+                    "notify": "audiolevelChanged",
+                    "read": "audiolevel",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setAudiolevel"
+                }
+            ],
+            "qualifiedClassName": "audio",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "audiolevelChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "audio.h",
+    "outputRevision": 68
+}

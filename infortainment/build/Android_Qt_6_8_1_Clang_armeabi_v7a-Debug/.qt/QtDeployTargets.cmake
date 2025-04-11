@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appinfortainment_FILE /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/libappinfortainment_armeabi-v7a.so)
+set(__QT_DEPLOY_TARGET_appinfortainment_TYPE MODULE_LIBRARY)

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appinfortainment_FILE /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Desktop_Qt_6_8_1-Debug/appinfortainment)
+set(__QT_DEPLOY_TARGET_appinfortainment_TYPE EXECUTABLE)

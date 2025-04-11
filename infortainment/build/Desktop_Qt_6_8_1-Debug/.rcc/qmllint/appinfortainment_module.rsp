@@ -1,0 +1,10 @@
+-I
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Desktop_Qt_6_8_1-Debug
+-I
+/home/6.8.1/gcc_64/qml
+--resource
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_infortainment.qrc
+--resource
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appinfortainment_raw_qml_0.qrc
+--module
+infortainment

@@ -1,0 +1,10 @@
+-I
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug
+-I
+/home/6.8.1/android_armv7/qml
+--resource
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/qmake_infortainment.qrc
+--resource
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/appinfortainment_raw_qml_0.qrc
+--module
+infortainment

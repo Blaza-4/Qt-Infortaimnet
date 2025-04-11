@@ -1,0 +1,14 @@
+-rootPath
+/home/adin.n@acsiatech.com/QTWorks/infortainment
+-cmake-output
+-output-file
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/qml_imports/appinfortainment_conf.cmake
+-importPath
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/infortainment
+-importPath
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug
+-importPath
+/home/6.8.1/android_armv7/qml
+-qrcFiles
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/qmake_infortainment.qrc
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/.qt/rcc/appinfortainment_raw_qml_0.qrc

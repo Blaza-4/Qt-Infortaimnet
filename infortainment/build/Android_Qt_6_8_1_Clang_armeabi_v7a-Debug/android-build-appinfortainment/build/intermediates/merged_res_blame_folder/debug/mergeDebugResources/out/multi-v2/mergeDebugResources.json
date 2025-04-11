@@ -1,0 +1,1919 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-in/values-in.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,349,446,552,670,785",
+                        "endColumns": "94,101,96,96,105,117,114,100",
+                        "endOffsets": "145,247,344,441,547,665,780,881"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,195,297,394,491,597,715,972",
+                        "endColumns": "94,101,96,96,105,117,114,100",
+                        "endOffsets": "190,292,389,486,592,710,825,1068"
+                    }
+                },
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-in/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "143",
+                        "endOffsets": "243"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "830",
+                        "endColumns": "141",
+                        "endOffsets": "967"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-bs/values-bs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,353,457,561,663,780",
+                        "endColumns": "97,101,97,103,103,101,116,100",
+                        "endOffsets": "148,250,348,452,556,658,775,876"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-pt-rBR/values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,353,453,560,670,790",
+                        "endColumns": "96,101,98,99,106,109,119,100",
+                        "endOffsets": "147,249,348,448,555,665,785,886"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,197,299,398,498,605,715,968",
+                        "endColumns": "96,101,98,99,106,109,119,100",
+                        "endOffsets": "192,294,393,493,600,710,830,1064"
+                    }
+                },
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-pt-rBR/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "134",
+                        "endOffsets": "234"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "835",
+                        "endColumns": "132",
+                        "endOffsets": "963"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/26300d1c264579565bc9ddfa479a40a7/transformed/startup-runtime-1.1.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "114",
+                        "startColumns": "4",
+                        "startOffsets": "6637",
+                        "endColumns": "82",
+                        "endOffsets": "6715"
+                    }
+                },
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "123",
+                        "startColumns": "4",
+                        "startOffsets": "7282",
+                        "endColumns": "136",
+                        "endOffsets": "7414"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/android-build-appinfortainment/res/values/libs.xml",
+                    "from": {
+                        "startLines": "-1,-1,8,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,4,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,211,-1,-1,-1,-1",
+                        "endLines": "-1,-1,29,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,12,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,1393,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,5,8,115,124,126,127",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "100,154,338,6720,7419,7531,7571",
+                        "endLines": "4,7,29,115,124,126,127",
+                        "endColumns": "12,12,12,50,40,39,47",
+                        "endOffsets": "149,333,1518,6766,7455,7566,7614"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/29bdcdf22695965faeb1e4f61a5fe18c/transformed/lifecycle-runtime-2.6.2/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "112",
+                        "startColumns": "4",
+                        "startOffsets": "6524",
+                        "endColumns": "42",
+                        "endOffsets": "6562"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,113,116,117,118,119,120,121,122,125,128,129,133,134,138,139,140",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1523,1583,1655,1743,1808,1874,1943,2006,2076,2144,2216,2286,2347,2421,2494,2555,2616,2678,2742,2804,2865,2933,3033,3093,3159,3232,3301,3358,3410,3472,3544,3620,3685,3744,3803,3863,3923,3983,4043,4103,4163,4223,4283,4343,4403,4462,4522,4582,4642,4702,4762,4822,4882,4942,5002,5062,5121,5181,5241,5300,5359,5418,5477,5536,5595,5630,5665,5720,5783,5838,5896,5954,6015,6078,6135,6186,6236,6297,6354,6420,6454,6489,6567,6771,6838,6910,6979,7048,7122,7194,7460,7619,7736,7937,8047,8248,8377,8449",
+                        "endLines": "30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,113,116,117,118,119,120,121,122,125,128,132,133,137,138,139,140",
+                        "endColumns": "59,71,87,64,65,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,57,60,62,56,50,49,60,56,65,33,34,34,69,66,71,68,68,73,71,87,70,116,12,109,12,128,71,66",
+                        "endOffsets": "1578,1650,1738,1803,1869,1938,2001,2071,2139,2211,2281,2342,2416,2489,2550,2611,2673,2737,2799,2860,2928,3028,3088,3154,3227,3296,3353,3405,3467,3539,3615,3680,3739,3798,3858,3918,3978,4038,4098,4158,4218,4278,4338,4398,4457,4517,4577,4637,4697,4757,4817,4877,4937,4997,5057,5116,5176,5236,5295,5354,5413,5472,5531,5590,5625,5660,5715,5778,5833,5891,5949,6010,6073,6130,6181,6231,6292,6349,6415,6449,6484,6519,6632,6833,6905,6974,7043,7117,7189,7277,7526,7731,7932,8042,8243,8372,8444,8511"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-fi/values-fi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,351,456,561,673,789",
+                        "endColumns": "95,101,97,104,104,111,115,100",
+                        "endOffsets": "146,248,346,451,556,668,784,885"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,259,367,472,576,676,805",
+                        "endColumns": "100,102,107,104,103,99,128,100",
+                        "endOffsets": "151,254,362,467,571,671,800,901"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-zh-rCN/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "97",
+                        "endOffsets": "197"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "764",
+                        "endColumns": "95",
+                        "endOffsets": "855"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-zh-rCN/values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,248,342,436,529,623,719",
+                        "endColumns": "91,100,93,93,92,93,95,100",
+                        "endOffsets": "142,243,337,431,524,618,714,815"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,192,293,387,481,574,668,860",
+                        "endColumns": "91,100,93,93,92,93,95,100",
+                        "endOffsets": "187,288,382,476,569,663,759,956"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-tl/values-tl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,355,452,559,667,789",
+                        "endColumns": "96,101,100,96,106,107,121,100",
+                        "endOffsets": "147,249,350,447,554,662,784,885"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-sl/values-sl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,352,456,559,661,778",
+                        "endColumns": "96,101,97,103,102,101,116,100",
+                        "endOffsets": "147,249,347,451,554,656,773,874"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-ka/values-ka.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,352,451,557,661,779",
+                        "endColumns": "95,101,98,98,105,103,117,100",
+                        "endOffsets": "146,248,347,446,552,656,774,875"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-hy/values-hy.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,260,358,457,562,664,775",
+                        "endColumns": "99,104,97,98,104,101,110,100",
+                        "endOffsets": "150,255,353,452,557,659,770,871"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-nb/values-nb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,149,251,348,447,555,661,781",
+                        "endColumns": "93,101,96,98,107,105,119,100",
+                        "endOffsets": "144,246,343,442,550,656,776,877"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,194,296,393,492,600,706,956",
+                        "endColumns": "93,101,96,98,107,105,119,100",
+                        "endOffsets": "189,291,388,487,595,701,821,1052"
+                    }
+                },
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-nb/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "131",
+                        "endOffsets": "231"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "826",
+                        "endColumns": "129",
+                        "endOffsets": "951"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-fr/values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,354,456,560,664,782",
+                        "endColumns": "97,101,98,101,103,103,117,100",
+                        "endOffsets": "148,250,349,451,555,659,777,878"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,198,300,399,501,605,709,974",
+                        "endColumns": "97,101,98,101,103,103,117,100",
+                        "endOffsets": "193,295,394,496,600,704,822,1070"
+                    }
+                },
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-fr/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "148",
+                        "endOffsets": "248"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "827",
+                        "endColumns": "146",
+                        "endOffsets": "969"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-uz/values-uz.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,259,360,460,568,672,791",
+                        "endColumns": "101,101,100,99,107,103,118,100",
+                        "endOffsets": "152,254,355,455,563,667,786,887"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-hi/values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,361,462,575,681,808",
+                        "endColumns": "97,102,104,100,112,105,126,100",
+                        "endOffsets": "148,251,356,457,570,676,803,904"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-en-rGB/values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,352,451,555,658,774",
+                        "endColumns": "95,101,98,98,103,102,115,100",
+                        "endOffsets": "146,248,347,446,550,653,769,870"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-ja/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "106",
+                        "endOffsets": "206"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "769",
+                        "endColumns": "104",
+                        "endOffsets": "869"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-ja/values-ja.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,247,341,437,530,623,724",
+                        "endColumns": "91,99,93,95,92,92,100,100",
+                        "endOffsets": "142,242,336,432,525,618,719,820"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,192,292,386,482,575,668,874",
+                        "endColumns": "91,99,93,95,92,92,100,100",
+                        "endOffsets": "187,287,381,477,570,663,764,970"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,353,453,560,670,790",
+                        "endColumns": "96,101,98,99,106,109,119,100",
+                        "endOffsets": "147,249,348,448,555,665,785,886"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-sw/values-sw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,149,251,348,449,556,663,778",
+                        "endColumns": "93,101,96,100,106,106,114,100",
+                        "endOffsets": "144,246,343,444,551,658,773,874"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-ca/values-ca.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,352,449,555,660,786",
+                        "endColumns": "95,101,98,96,105,104,125,100",
+                        "endOffsets": "146,248,347,444,550,655,781,882"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-se_values-se.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-se/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "148",
+                        "endOffsets": "248"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "146",
+                        "endOffsets": "242"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,356,455,560,667,786",
+                        "endColumns": "97,101,100,98,104,106,118,100",
+                        "endOffsets": "148,250,351,450,555,662,781,882"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-zh-rTW/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "97",
+                        "endOffsets": "197"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "761",
+                        "endColumns": "95",
+                        "endOffsets": "852"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-zh-rTW/values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,246,340,434,527,620,716",
+                        "endColumns": "91,98,93,93,92,92,95,100",
+                        "endOffsets": "142,241,335,429,522,615,711,812"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,192,291,385,479,572,665,857",
+                        "endColumns": "91,98,93,93,92,92,95,100",
+                        "endOffsets": "187,286,380,474,567,660,756,953"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-hu/values-hu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,356,457,560,667,777",
+                        "endColumns": "96,101,101,100,102,106,109,100",
+                        "endOffsets": "147,249,351,452,555,662,772,873"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-sr/values-sr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,352,456,560,665,781",
+                        "endColumns": "97,101,96,103,103,104,115,100",
+                        "endOffsets": "148,250,347,451,555,660,776,877"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-kn/values-kn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,357,463,564,672,800",
+                        "endColumns": "97,102,100,105,100,107,127,100",
+                        "endOffsets": "148,251,352,458,559,667,795,896"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,156,258,361,465,566,671,782",
+                        "endColumns": "100,101,102,103,100,104,110,100",
+                        "endOffsets": "151,253,356,460,561,666,777,878"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-da/values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,350,448,555,664,782",
+                        "endColumns": "95,101,96,97,106,108,117,100",
+                        "endOffsets": "146,248,345,443,550,659,777,878"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-es-rUS/values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,356,454,561,667,787",
+                        "endColumns": "98,101,99,97,106,105,119,100",
+                        "endOffsets": "149,251,351,449,556,662,782,883"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-ml/values-ml.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,260,362,466,569,670,792",
+                        "endColumns": "101,102,101,103,102,100,121,100",
+                        "endOffsets": "152,255,357,461,564,665,787,888"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-pt-rPT/values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,353,453,560,666,787",
+                        "endColumns": "96,101,98,99,106,105,120,100",
+                        "endOffsets": "147,249,348,448,555,661,782,883"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-pl/values-pl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,352,451,565,670,792",
+                        "endColumns": "96,101,97,98,113,104,121,100",
+                        "endOffsets": "147,249,347,446,560,665,787,888"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,197,299,397,496,610,715,965",
+                        "endColumns": "96,101,97,98,113,104,121,100",
+                        "endOffsets": "192,294,392,491,605,710,832,1061"
+                    }
+                },
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-pl/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "129",
+                        "endOffsets": "229"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "837",
+                        "endColumns": "127",
+                        "endOffsets": "960"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-tr/values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,352,449,551,657,768",
+                        "endColumns": "96,101,97,96,101,105,110,100",
+                        "endOffsets": "147,249,347,444,546,652,763,864"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-zu/values-zu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,257,356,459,565,672,785",
+                        "endColumns": "97,103,98,102,105,106,112,100",
+                        "endOffsets": "148,252,351,454,560,667,780,881"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-hr/values-hr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,260,357,456,560,664,781",
+                        "endColumns": "97,106,96,98,103,103,116,100",
+                        "endOffsets": "148,255,352,451,555,659,776,877"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,257,358,459,564,669,782",
+                        "endColumns": "99,101,100,100,104,104,112,100",
+                        "endOffsets": "150,252,353,454,559,664,777,878"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-th/values-th.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,254,352,450,553,658,770",
+                        "endColumns": "95,102,97,97,102,104,111,100",
+                        "endOffsets": "146,249,347,445,548,653,765,866"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,246,340,434,527,620,716",
+                        "endColumns": "91,98,93,93,92,92,95,100",
+                        "endOffsets": "142,241,335,429,522,615,711,812"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-mn/values-mn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,356,454,559,671,790",
+                        "endColumns": "97,101,100,97,104,111,118,100",
+                        "endOffsets": "148,250,351,449,554,666,785,886"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-ms/values-ms.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,349,459,565,683,798",
+                        "endColumns": "94,101,96,109,105,117,114,100",
+                        "endOffsets": "145,247,344,454,560,678,793,894"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,195,297,394,504,610,728,977",
+                        "endColumns": "94,101,96,109,105,117,114,100",
+                        "endOffsets": "190,292,389,499,605,723,838,1073"
+                    }
+                },
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-ms/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "135",
+                        "endOffsets": "235"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "843",
+                        "endColumns": "133",
+                        "endOffsets": "972"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,355,456,562,665,786",
+                        "endColumns": "97,101,99,100,105,102,120,100",
+                        "endOffsets": "148,250,350,451,557,660,781,882"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-nl/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "161",
+                        "endOffsets": "261"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "834",
+                        "endColumns": "159",
+                        "endOffsets": "989"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-nl/values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,259,359,459,566,670,789",
+                        "endColumns": "101,101,99,99,106,103,118,100",
+                        "endOffsets": "152,254,354,454,561,665,784,885"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,202,304,404,504,611,715,994",
+                        "endColumns": "101,101,99,99,106,103,118,100",
+                        "endOffsets": "197,299,399,499,606,710,829,1090"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,149,251,348,445,546,646,752",
+                        "endColumns": "93,101,96,96,100,99,105,100",
+                        "endOffsets": "144,246,343,440,541,641,747,848"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-et/values-et.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,350,453,559,664,784",
+                        "endColumns": "94,101,97,102,105,104,119,100",
+                        "endOffsets": "145,247,345,448,554,659,779,880"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,195,297,395,498,604,709,961",
+                        "endColumns": "94,101,97,102,105,104,119,100",
+                        "endOffsets": "190,292,390,493,599,704,824,1057"
+                    }
+                },
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-et/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "133",
+                        "endOffsets": "233"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "829",
+                        "endColumns": "131",
+                        "endOffsets": "956"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-ur/values-ur.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,357,461,564,662,776",
+                        "endColumns": "97,101,101,103,102,97,113,100",
+                        "endOffsets": "148,250,352,456,559,657,771,872"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,354,456,560,664,778",
+                        "endColumns": "97,101,98,101,103,103,113,100",
+                        "endOffsets": "148,250,349,451,555,659,773,874"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-ta/values-ta.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,254,353,451,558,673,801",
+                        "endColumns": "95,102,98,97,106,114,127,100",
+                        "endOffsets": "146,249,348,446,553,668,796,897"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-my/values-my.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,262,365,467,572,678,797",
+                        "endColumns": "102,103,102,101,104,105,118,100",
+                        "endOffsets": "153,257,360,462,567,673,792,893"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-ro/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "149",
+                        "endOffsets": "249"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "827",
+                        "endColumns": "147",
+                        "endOffsets": "970"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-ro/values-ro.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,355,454,556,665,782",
+                        "endColumns": "97,101,99,98,101,108,116,100",
+                        "endOffsets": "148,250,350,449,551,660,777,878"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,198,300,400,499,601,710,975",
+                        "endColumns": "97,101,99,98,101,108,116,100",
+                        "endOffsets": "193,295,395,494,596,705,822,1071"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-fa/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "144",
+                        "endOffsets": "244"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "824",
+                        "endColumns": "142",
+                        "endOffsets": "962"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-fa/values-fa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,355,455,556,662,779",
+                        "endColumns": "98,101,98,99,100,105,116,100",
+                        "endOffsets": "149,251,350,450,551,657,774,875"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,199,301,400,500,601,707,967",
+                        "endColumns": "98,101,98,99,100,105,116,100",
+                        "endOffsets": "194,296,395,495,596,702,819,1063"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-de/values-de.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,355,455,563,668,786",
+                        "endColumns": "97,101,99,99,107,104,117,100",
+                        "endOffsets": "148,250,350,450,558,663,781,882"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,198,300,400,500,608,713,1001",
+                        "endColumns": "97,101,99,99,107,104,117,100",
+                        "endOffsets": "193,295,395,495,603,708,826,1097"
+                    }
+                },
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-de/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "171",
+                        "endOffsets": "271"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "831",
+                        "endColumns": "169",
+                        "endOffsets": "996"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-sv/values-sv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,350,449,557,662,783",
+                        "endColumns": "94,101,97,98,107,104,120,100",
+                        "endOffsets": "145,247,345,444,552,657,778,879"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-el/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "147",
+                        "endOffsets": "247"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "835",
+                        "endColumns": "145",
+                        "endOffsets": "976"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-el/values-el.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,356,459,567,673,790",
+                        "endColumns": "97,102,99,102,107,105,116,100",
+                        "endOffsets": "148,251,351,454,562,668,785,886"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,198,301,401,504,612,718,981",
+                        "endColumns": "97,102,99,102,107,105,116,100",
+                        "endOffsets": "193,296,396,499,607,713,830,1077"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-eu/values-eu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,356,459,564,667,786",
+                        "endColumns": "97,102,99,102,104,102,118,100",
+                        "endOffsets": "148,251,351,454,559,662,781,882"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-ne/values-ne.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,261,363,469,567,667,775",
+                        "endColumns": "102,102,101,105,97,99,107,100",
+                        "endOffsets": "153,256,358,464,562,662,770,871"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,252,354,457,561,658,769",
+                        "endColumns": "94,101,101,102,103,96,110,100",
+                        "endOffsets": "145,247,349,452,556,653,764,865"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,352,456,560,665,781",
+                        "endColumns": "97,101,96,103,103,104,115,100",
+                        "endOffsets": "148,250,347,451,555,660,776,877"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-en-rIN/values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,352,451,555,658,774",
+                        "endColumns": "95,101,98,98,103,102,115,100",
+                        "endOffsets": "146,248,347,446,550,653,769,870"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-gu/values-gu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,149,252,349,451,553,651,773",
+                        "endColumns": "93,102,96,101,101,97,121,100",
+                        "endOffsets": "144,247,344,446,548,646,768,869"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,262,364,465,572,677,796",
+                        "endColumns": "96,109,101,100,106,104,118,100",
+                        "endOffsets": "147,257,359,460,567,672,791,892"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,253,351,451,552,664,776",
+                        "endColumns": "94,102,97,99,100,111,111,100",
+                        "endOffsets": "145,248,346,446,547,659,771,872"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-en-rXC/values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,251,456,657,858,1065,1270,1482",
+                        "endColumns": "195,204,200,200,206,204,211,203",
+                        "endOffsets": "246,451,652,853,1060,1265,1477,1681"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,152,254,353,453,556,669,785",
+                        "endColumns": "96,101,98,99,102,112,115,100",
+                        "endOffsets": "147,249,348,448,551,664,780,881"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-pa/values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,358,459,561,659,788",
+                        "endColumns": "97,101,102,100,101,97,128,100",
+                        "endOffsets": "148,250,353,454,556,654,783,884"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-it/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "143",
+                        "endOffsets": "243"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "847",
+                        "endColumns": "141",
+                        "endOffsets": "984"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-it/values-it.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,354,456,565,672,802",
+                        "endColumns": "97,101,98,101,108,106,129,100",
+                        "endOffsets": "148,250,349,451,560,667,797,898"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,198,300,399,501,610,717,989",
+                        "endColumns": "97,101,98,101,108,106,129,100",
+                        "endOffsets": "193,295,394,496,605,712,842,1085"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-v21/values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,237,304,368,484,610,736,864,1036",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "117,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "168,232,299,363,479,605,731,859,1031,1383"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-bn/values-bn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,358,461,562,664,784",
+                        "endColumns": "98,101,101,102,100,101,119,100",
+                        "endOffsets": "149,251,353,456,557,659,779,880"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-sk/values-sk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,354,452,562,670,792",
+                        "endColumns": "95,101,100,97,109,107,121,100",
+                        "endOffsets": "146,248,349,447,557,665,787,888"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-sq/values-sq.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,354,451,559,670,792",
+                        "endColumns": "98,101,97,96,107,110,121,100",
+                        "endOffsets": "149,251,349,446,554,665,787,888"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-af/values-af.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,353,451,558,667,787",
+                        "endColumns": "97,101,97,97,106,108,119,100",
+                        "endOffsets": "148,250,348,446,553,662,782,883"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-lv/values-lv.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,355,456,563,671,786",
+                        "endColumns": "97,101,99,100,106,107,114,100",
+                        "endOffsets": "148,250,350,451,558,666,781,882"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-ky/values-ky.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,257,360,467,571,675,786",
+                        "endColumns": "99,101,102,106,103,103,110,100",
+                        "endOffsets": "150,252,355,462,566,670,781,882"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,352,450,555,658,774",
+                        "endColumns": "97,101,96,97,104,102,115,100",
+                        "endOffsets": "148,250,347,445,550,653,769,870"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-is/values-is.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,150,257,354,454,557,661,772",
+                        "endColumns": "94,106,96,99,102,103,110,100",
+                        "endOffsets": "145,252,349,449,552,656,767,868"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-te/values-te.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,265,367,468,574,681,805",
+                        "endColumns": "101,107,101,100,105,106,123,100",
+                        "endOffsets": "152,260,362,463,569,676,800,901"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-si/values-si.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,260,365,470,569,673,787",
+                        "endColumns": "101,102,104,104,98,103,113,100",
+                        "endOffsets": "152,255,360,465,564,668,782,883"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,356,454,561,667,787",
+                        "endColumns": "98,101,99,97,106,105,119,100",
+                        "endOffsets": "149,251,351,449,556,662,782,883"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,199,301,401,499,606,712,972",
+                        "endColumns": "98,101,99,97,106,105,119,100",
+                        "endOffsets": "194,296,396,494,601,707,827,1068"
+                    }
+                },
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-es/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "141",
+                        "endOffsets": "241"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "832",
+                        "endColumns": "139",
+                        "endOffsets": "967"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,148,250,345,448,551,653,767",
+                        "endColumns": "92,101,94,102,102,101,113,100",
+                        "endOffsets": "143,245,340,443,546,648,762,863"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,263,362,465,576,686,806",
+                        "endColumns": "97,109,98,102,110,109,119,100",
+                        "endOffsets": "148,258,357,460,571,681,801,902"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-mr/values-mr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,155,259,360,463,565,670,787",
+                        "endColumns": "99,103,100,102,101,104,116,100",
+                        "endOffsets": "150,254,355,458,560,665,782,883"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,254,353,451,552,650,761",
+                        "endColumns": "95,102,98,97,100,97,110,100",
+                        "endOffsets": "146,249,348,446,547,645,756,857"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-am/values-am.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,148,248,345,444,540,642,742",
+                        "endColumns": "92,99,96,98,95,101,99,100",
+                        "endOffsets": "143,243,340,439,535,637,737,838"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "org.qtproject.example.appinfortainment-debug-11:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/26300d1c264579565bc9ddfa479a40a7/transformed/startup-runtime-1.1.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "129",
+                        "startColumns": "4",
+                        "startOffsets": "7721",
+                        "endColumns": "82",
+                        "endOffsets": "7799"
+                    }
+                },
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "138",
+                        "startColumns": "4",
+                        "startOffsets": "8366",
+                        "endColumns": "136",
+                        "endOffsets": "8498"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/android-build-appinfortainment/res/values/libs.xml",
+                    "from": {
+                        "startLines": "-1,-1,8,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,4,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,211,-1,-1,-1,-1",
+                        "endLines": "-1,-1,44,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,12,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,2477,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,5,8,130,139,141,142",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "100,154,338,7804,8503,8615,8655",
+                        "endLines": "4,7,44,130,139,141,142",
+                        "endColumns": "12,12,12,50,40,39,47",
+                        "endOffsets": "149,333,2602,7850,8539,8650,8698"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/29bdcdf22695965faeb1e4f61a5fe18c/transformed/lifecycle-runtime-2.6.2/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "127",
+                        "startColumns": "4",
+                        "startOffsets": "7608",
+                        "endColumns": "42",
+                        "endOffsets": "7646"
+                    }
+                },
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,128,131,132,133,134,135,136,137,140,143,144,148,149,153,154,155",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2607,2667,2739,2827,2892,2958,3027,3090,3160,3228,3300,3370,3431,3505,3578,3639,3700,3762,3826,3888,3949,4017,4117,4177,4243,4316,4385,4442,4494,4556,4628,4704,4769,4828,4887,4947,5007,5067,5127,5187,5247,5307,5367,5427,5487,5546,5606,5666,5726,5786,5846,5906,5966,6026,6086,6146,6205,6265,6325,6384,6443,6502,6561,6620,6679,6714,6749,6804,6867,6922,6980,7038,7099,7162,7219,7270,7320,7381,7438,7504,7538,7573,7651,7855,7922,7994,8063,8132,8206,8278,8544,8703,8820,9021,9131,9332,9461,9533",
+                        "endLines": "45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,100,101,102,103,104,105,106,107,108,109,110,111,112,113,114,115,116,117,118,119,120,121,122,123,124,125,126,128,131,132,133,134,135,136,137,140,143,147,148,152,153,154,155",
+                        "endColumns": "59,71,87,64,65,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,57,60,62,56,50,49,60,56,65,33,34,34,69,66,71,68,68,73,71,87,70,116,12,109,12,128,71,66",
+                        "endOffsets": "2662,2734,2822,2887,2953,3022,3085,3155,3223,3295,3365,3426,3500,3573,3634,3695,3757,3821,3883,3944,4012,4112,4172,4238,4311,4380,4437,4489,4551,4623,4699,4764,4823,4882,4942,5002,5062,5122,5182,5242,5302,5362,5422,5482,5541,5601,5661,5721,5781,5841,5901,5961,6021,6081,6141,6200,6260,6320,6379,6438,6497,6556,6615,6674,6709,6744,6799,6862,6917,6975,7033,7094,7157,7214,7265,7315,7376,7433,7499,7533,7568,7603,7716,7917,7989,8058,8127,8201,8273,8361,8610,8815,9016,9126,9327,9456,9528,9595"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-or_values-or.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-or/values-or.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,158,260,363,468,569,671,790",
+                        "endColumns": "102,101,102,104,100,101,118,100",
+                        "endOffsets": "153,255,358,463,564,666,785,886"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-en-rCA/values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,352,451,555,657,773",
+                        "endColumns": "95,101,98,98,103,101,115,100",
+                        "endOffsets": "146,248,347,446,550,652,768,869"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-gl/values-gl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,154,256,356,454,561,667,783",
+                        "endColumns": "98,101,99,97,106,105,115,100",
+                        "endOffsets": "149,251,351,449,556,662,778,879"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-ru/values-ru.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,255,356,457,562,665,782",
+                        "endColumns": "97,101,100,100,104,102,116,100",
+                        "endOffsets": "148,250,351,452,557,660,777,878"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "100,198,300,401,502,607,710,975",
+                        "endColumns": "97,101,100,100,104,102,116,100",
+                        "endOffsets": "193,295,396,497,602,705,822,1071"
+                    }
+                },
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-ru/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "149",
+                        "endOffsets": "249"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "827",
+                        "endColumns": "147",
+                        "endOffsets": "970"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-ko/values-ko.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,247,341,438,534,632,732",
+                        "endColumns": "91,99,93,96,95,97,99,100",
+                        "endOffsets": "142,242,336,433,529,627,727,828"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/adin.n@acsiatech.com/.gradle/daemon/8.10/org.qtproject.example.appinfortainment-debug-11:/values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res/values-en-rAU/values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,253,352,451,555,658,774",
+                        "endColumns": "95,101,98,98,103,102,115,100",
+                        "endOffsets": "146,248,347,446,550,653,769,870"
+                    }
+                }
+            ]
+        }
+    ]
+}

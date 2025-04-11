@@ -1,0 +1,5 @@
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Desktop_Qt_6_8_1-Debug/appinfortainment_autogen/include/../EWIEGA46WW/moc_audio.cpp.json
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Desktop_Qt_6_8_1-Debug/appinfortainment_autogen/include/../EWIEGA46WW/moc_controller.cpp.json
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Desktop_Qt_6_8_1-Debug/appinfortainment_autogen/include/../EWIEGA46WW/moc_system.cpp.json
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Desktop_Qt_6_8_1-Debug/appinfortainment_autogen/include/../EWIEGA46WW/moc_themes.cpp.json
+/home/adin.n@acsiatech.com/QTWorks/infortainment/build/Desktop_Qt_6_8_1-Debug/appinfortainment_autogen/include/../EWIEGA46WW/moc_wheather.cpp.json

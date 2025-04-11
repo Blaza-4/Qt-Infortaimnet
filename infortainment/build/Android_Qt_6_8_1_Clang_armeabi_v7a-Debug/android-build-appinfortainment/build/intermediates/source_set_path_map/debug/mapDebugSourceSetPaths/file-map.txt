@@ -1,0 +1,14 @@
+org.qtproject.example.appinfortainment-java-0 /home/6.8.1/android_armv7/src/android/java/res
+org.qtproject.example.appinfortainment-core-runtime-2.2.0-1 /home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/0774a73e07fe323e3053c89d9103d035/transformed/core-runtime-2.2.0/res
+org.qtproject.example.appinfortainment-startup-runtime-1.1.1-2 /home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/26300d1c264579565bc9ddfa479a40a7/transformed/startup-runtime-1.1.1/res
+org.qtproject.example.appinfortainment-lifecycle-runtime-2.6.2-3 /home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/29bdcdf22695965faeb1e4f61a5fe18c/transformed/lifecycle-runtime-2.6.2/res
+org.qtproject.example.appinfortainment-core-1.13.1-4 /home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/614f50bb2b90647a5f75820a3da4b2e4/transformed/core-1.13.1/res
+org.qtproject.example.appinfortainment-profileinstaller-1.3.0-5 /home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/acbc698e3f0c16775281193bdfceb4d0/transformed/profileinstaller-1.3.0/res
+org.qtproject.example.appinfortainment-annotation-experimental-1.4.0-6 /home/adin.n@acsiatech.com/.gradle/caches/8.10/transforms/c82b2e770b0cc7a7960b8886c0792a59/transformed/annotation-experimental-1.4.0/res
+org.qtproject.example.appinfortainment-pngs-7 /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/android-build-appinfortainment/build/generated/res/pngs/debug
+org.qtproject.example.appinfortainment-resValues-8 /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/android-build-appinfortainment/build/generated/res/resValues/debug
+org.qtproject.example.appinfortainment-packageDebugResources-9 /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/android-build-appinfortainment/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+org.qtproject.example.appinfortainment-packageDebugResources-10 /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/android-build-appinfortainment/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+org.qtproject.example.appinfortainment-debug-11 /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/android-build-appinfortainment/build/intermediates/merged_res/debug/mergeDebugResources
+org.qtproject.example.appinfortainment-android-build-appinfortainment-12 /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/android-build-appinfortainment/res
+org.qtproject.example.appinfortainment-debug-13 /home/adin.n@acsiatech.com/QTWorks/infortainment/build/Android_Qt_6_8_1_Clang_armeabi_v7a-Debug/android-build-appinfortainment/src/debug/res

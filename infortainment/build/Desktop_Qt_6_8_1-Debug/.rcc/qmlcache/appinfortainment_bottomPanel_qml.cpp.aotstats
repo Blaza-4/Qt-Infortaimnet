@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 16,
+                        "durationMicroseconds": 223,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 7
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 140,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 8
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 9
+                    }
+                ],
+                "filepath": "/home/devuser/infortainment/bottomPanel.qml"
+            }
+        ],
+        "moduleId": "infortainment(appinfortainment)"
+    }
+]

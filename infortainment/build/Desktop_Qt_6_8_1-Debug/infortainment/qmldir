@@ -1,0 +1,27 @@
+module infortainment
+typeinfo appinfortainment.qmltypes
+prefer :/qt/qml/infortainment/
+Main 1.0 Main.qml
+Bottom 1.0 Bottom.qml
+Right 1.0 Right.qml
+Left 1.0 Left.qml
+Controllers 1.0 Controllers.qml
+AudioControl 1.0 AudioControl.qml
+IconButton 1.0 IconButton.qml
+Autopilot 1.0 Settings.qml/Autopilot.qml
+Display 1.0 Settings.qml/Display.qml
+Driving 1.0 Settings.qml/Driving.qml
+Light 1.0 Settings.qml/Light.qml
+Lock 1.0 Settings.qml/Lock.qml
+QuickControls 1.0 Settings.qml/QuickControls.qml
+Saftey 1.0 Settings.qml/Saftey.qml
+Security 1.0 Settings.qml/Security.qml
+Car 1.0 Car.qml
+LabelButton 1.0 LabelButton.qml
+IconButton2 1.0 IconButton2.qml
+LabelButton 1.0 Settings.qml/LabelButton.qml
+LabelSelector 1.0 Settings.qml/LabelSelector.qml
+ToggleButton 1.0 Settings.qml/ToggleButton.qml
+TSlider 1.0 Settings.qml/TSlider.qml
+Themes 1.0 Themes.qml
+

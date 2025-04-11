@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "org.qtproject.example.appinfortainment-mergeDebugResources-9:/values-se/values-se.xml",
+            "map": [
+                {
+                    "source": "/home/6.8.1/android_armv7/src/android/java/res/values-se/strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endColumns": "148",
+                        "endOffsets": "248"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endColumns": "146",
+                        "endOffsets": "242"
+                    }
+                }
+            ]
+        }
+    ]
+}

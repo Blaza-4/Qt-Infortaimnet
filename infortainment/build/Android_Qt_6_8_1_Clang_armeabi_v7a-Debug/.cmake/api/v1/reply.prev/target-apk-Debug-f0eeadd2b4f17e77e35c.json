@@ -1,0 +1,141 @@
+{
+	"backtrace" : 9,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"_qt_internal_create_global_android_targets_impl",
+			"_qt_internal_create_global_android_targets",
+			"include",
+			"find_package",
+			"add_dependencies",
+			"qt6_android_add_apk_target",
+			"_qt_internal_android_executable_finalizer",
+			"cmake_language",
+			"_qt_internal_finalize_executable",
+			"qt6_finalize_target"
+		],
+		"files" : 
+		[
+			"/home/6.8.1/android_armv7/lib/cmake/Qt6Core/Qt6AndroidMacros.cmake",
+			"/home/6.8.1/android_armv7/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake",
+			"/home/6.8.1/android_armv7/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"/home/6.8.1/android_armv7/lib/cmake/Qt6/Qt6Config.cmake",
+			"CMakeLists.txt",
+			"/home/6.8.1/android_armv7/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"/home/6.8.1/android_armv7/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:792:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 4
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"file" : 3,
+				"parent" : 1
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 181,
+				"parent" : 2
+			},
+			{
+				"file" : 2,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 142,
+				"parent" : 4
+			},
+			{
+				"file" : 1,
+				"parent" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 35,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 695,
+				"parent" : 7
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 687,
+				"parent" : 8
+			},
+			{
+				"file" : 4,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 10,
+				"file" : 6,
+				"line" : 1,
+				"parent" : 10
+			},
+			{
+				"command" : 9,
+				"file" : 5,
+				"line" : 823,
+				"parent" : 11
+			},
+			{
+				"command" : 8,
+				"file" : 5,
+				"line" : 745,
+				"parent" : 12
+			},
+			{
+				"command" : 7,
+				"file" : 5,
+				"line" : 745,
+				"parent" : 13
+			},
+			{
+				"command" : 6,
+				"file" : 0,
+				"line" : 1574,
+				"parent" : 14
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 400,
+				"parent" : 15
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 16,
+			"id" : "appinfortainment_make_apk::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "apk::@6890427a1f51a3e7e1df",
+	"name" : "apk",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

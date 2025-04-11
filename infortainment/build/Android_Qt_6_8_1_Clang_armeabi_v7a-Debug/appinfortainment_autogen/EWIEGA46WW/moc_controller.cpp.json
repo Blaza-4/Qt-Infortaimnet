@@ -1,0 +1,57 @@
+{
+    "classes": [
+        {
+            "className": "controller",
+            "lineNumber": 6,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 1,
+                    "name": "tempAdjust",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "carTemp",
+                    "notify": "carTempChanged",
+                    "read": "carTemp",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setCarTemp"
+                }
+            ],
+            "qualifiedClassName": "controller",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "carTempChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "controller.h",
+    "outputRevision": 68
+}
