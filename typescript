@@ -1,0 +1,379 @@
+Script started on 2025-04-11 11:56:31+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: /media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m/media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[00m$ vi sccd scripts/[6Pvi sc[Kscript.sh
+[?2004lscript.sh: command not found
+[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: /media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m/media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[00m$ script.sh[K[K[C[Kbscriptascript[Cscripthscript script
+[?2004l/usr/bin/script: /usr/bin/script: cannot execute binary file
+[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: /media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m/media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[00m$ bash script[2Pscript.sh1.sh[C[C[C
+[?2004lscript1.sh: command not found
+[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: /media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m/media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[00m$ [K[A]0;adin.n@acsiatech.com@ATCLWI2201: /media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m/media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[00m$ [K[A]0;adin.n@acsiatech.com@ATCLWI2201: /media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m/media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[00m$ [K[A]0;adin.n@acsiatech.com@ATCLWI2201: /media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m/media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[00m$ [K[A]0;adin.n@acsiatech.com@ATCLWI2201: /media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m/media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[00m$ [K[A]0;adin.n@acsiatech.com@ATCLWI2201: /media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m/media/adin.n@acsiatech.com/16fe548e-c59a-483d-90a7-f75d71bf8905/Qt-Infortaimnet[00m$ cd
+[?2004l[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ ls -la
+[?2004ltotal 751636
+drwxr-xr-x 46 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr 11 11:49 [0m[01;34m.[0m
+drwxr-xr-x 19 root                 root                            4096 Apr  8 14:30 [01;34m..[0m
+drwxrwxr-x 23 adin.n@acsiatech.com root                            4096 Feb 20 16:50 [01;34madin[0m
+drwxr-xr-x  5 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 14 11:34 [01;34m.android[0m
+drwxr-xr-x  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 20 15:32 [01;34mAndroid[0m
+drwxr-xr-x 32 adin.n@acsiatech.com root                            4096 Mar  3 19:43 [01;34mAndroidStudioProjects[0m
+drwxrwxr-x 59 adin.n@acsiatech.com root                            4096 Apr  4 12:55 [01;34mArduino[0m
+drwxr-xr-x  6 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr  4 11:28 [01;34m.arduino15[0m
+drwxr-xr-x  7 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 17 14:50 [01;34m.arduinoIDE[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com        43 Dec 27 13:38 .bash
+-rw-------  1 adin.n@acsiatech.com domain users@acsiatech.com     35141 Apr 11 11:49 .bash_history
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com       220 Sep  5  2024 .bash_logout
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com      3771 Sep  5  2024 .bashrc
+drwx------ 82 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr 11 11:48 [01;34m.cache[0m
+drwx------ 48 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr 10 14:55 [01;34m.config[0m
+-rw-r--r--  1 root                 root                               1 Apr  8 11:11 Configuration.json
+-rw-r--r--  1 root                 root                             218 Jan 30 15:49 cracked.json
+drwxr-xr-x 18 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr 11 11:41 [01;34mDesktop[0m
+drwxr-xr-x 18 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 24 12:44 [01;34mDocuments[0m
+drwxr-xr-x  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 23 10:30 [01;34m.dotnet[0m
+drwxr-xr-x  7 adin.n@acsiatech.com domain users@acsiatech.com     20480 Apr 10 15:01 [01;34mDownloads[0m
+-rw-------  1 adin.n@acsiatech.com domain users@acsiatech.com        16 Dec 20 17:23 .emulator_console_auth_token
+drwxr-xr-x  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Feb  4 10:54 [01;34mfile[0m
+-rw-rw-r--  1 adin.n@acsiatech.com domain users@acsiatech.com       201 Mar 10 09:53 .gitconfig
+drwx------  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr  9 16:41 [01;34m.gnupg[0m
+drwxr-xr-x  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 30 12:00 [01;34m.gnuradio[0m
+drwxrwxr-x  8 adin.n@acsiatech.com domain users@acsiatech.com      4096 Nov 19 12:52 [01;34mgoogletest[0m
+drwxr-xr-x  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 16 13:58 [01;34m.gphoto[0m
+drwxr-xr-x 11 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 14 11:11 [01;34m.gradle[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com      2198 Mar 10 18:12 .gr_fftw_wisdom
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com         0 Jan 30 11:58 .gr_fftw_wisdom.lock
+drwxr-xr-x  2 root                 root                            4096 Jan 30 15:57 [01;34mhs[0m
+drwxr-xr-x  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 20 11:10 [01;34mIdeaProjects[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com       287 Feb 28 09:10 installer.sh
+drwxr-xr-x  4 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 20 15:32 [01;34m.java[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com       125 Mar 10 14:43 .Komorebi.prop
+-rw-------  1 adin.n@acsiatech.com domain users@acsiatech.com        20 Apr 10 17:20 .lesshst
+drwx------  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 22 12:41 [01;34m.lldb[0m
+drwx------  5 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 20 14:02 [01;34m.local[0m
+drwx------  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 16 09:03 [01;34m.Microsoft[0m
+drwx------  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 15 17:29 [01;34m.mozilla[0m
+drwxr-xr-x  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 28 13:02 [01;34m.mplayer[0m
+drwxr-xr-x  4 adin.n@acsiatech.com domain users@acsiatech.com     12288 Apr  8 17:25 [01;34mMusic[0m
+drwxr-xr-x 79 adin.n@acsiatech.com domain users@acsiatech.com      4096 Feb 12 12:17 [01;34mnode_modules[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com        90 Feb 26 18:09 notes
+drwxr-xr-x  4 adin.n@acsiatech.com domain users@acsiatech.com      4096 Feb 11 17:15 [01;34m.npm[0m
+drwxr-xr-x  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 15 13:29 [01;34m.openjfx[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com       142 Feb 12 12:17 package.json
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com     56843 Feb 12 12:17 package-lock.json
+drwxr-xr-x  7 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr  8 14:33 [01;34mPictures[0m
+drwx------  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 15 11:21 [01;34m.pki[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com       809 Dec 28 19:09 .profile
+drwxr-xr-x  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 15 10:54 [01;34mPublic[0m
+drwxr-xr-x  7 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 30 15:09 [01;34mPyrit[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com 769302528 Jan 15 14:07 [01;31mqtlibs.zip[0m
+drwxr-xr-x 44 adin.n@acsiatech.com root                            4096 Mar 15 16:20 [01;34mQTWorks[0m
+-rw-rw-r--  1 adin.n@acsiatech.com domain users@acsiatech.com         0 Nov 28 15:05 .selected_editor
+drwx------ 13 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 20 12:04 [01;34msnap[0m
+drwx------  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr  2 09:05 [01;34m.ssh[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com         0 Sep  5  2024 .sudo_as_admin_successful
+drwxr-xr-x  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 17 17:25 [01;34mTemplates[0m
+drwx------  6 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 15 17:29 [01;34m.thunderbird[0m
+drwxr-xr-x  4 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 17 14:59 [01;34mVideos[0m
+drwxr-xr-x  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr  9 13:06 [01;34m.vmware[0m
+drwxr-xr-x  4 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 20 13:58 [01;34m.vscode[0m
+drwxrwxrwx  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr  7 12:58 [34;42m.vysor[0m
+-rw-rw-r--  1 adin.n@acsiatech.com domain users@acsiatech.com       287 Feb 10 14:57 .wget-hsts
+[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ [K]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ scr
+screendump    script        scriptlive    scriptreplay  
+]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ scr
+screendump    script        scriptlive    scriptreplay  
+]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ scr
+screendump    script        scriptlive    scriptreplay  
+]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ scr
+screendump    script        scriptlive    scriptreplay  
+]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ script
+script        scriptlive    scriptreplay  
+]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ script1.[K
+[?2004lCommand 'script1' not found, did you mean:
+  command 'script6' from deb ipv6toolkit (2.0+ds.1-1)
+  command 'script' from deb bsdutils (1:2.37.2-4ubuntu3.4)
+Try: sudo apt install <deb name>
+[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ ls -la
+[?2004ltotal 751636
+drwxr-xr-x 46 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr 11 11:49 [0m[01;34m.[0m
+drwxr-xr-x 19 root                 root                            4096 Apr  8 14:30 [01;34m..[0m
+drwxrwxr-x 23 adin.n@acsiatech.com root                            4096 Feb 20 16:50 [01;34madin[0m
+drwxr-xr-x  5 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 14 11:34 [01;34m.android[0m
+drwxr-xr-x  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 20 15:32 [01;34mAndroid[0m
+drwxr-xr-x 32 adin.n@acsiatech.com root                            4096 Mar  3 19:43 [01;34mAndroidStudioProjects[0m
+drwxrwxr-x 59 adin.n@acsiatech.com root                            4096 Apr  4 12:55 [01;34mArduino[0m
+drwxr-xr-x  6 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr  4 11:28 [01;34m.arduino15[0m
+drwxr-xr-x  7 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 17 14:50 [01;34m.arduinoIDE[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com        43 Dec 27 13:38 .bash
+-rw-------  1 adin.n@acsiatech.com domain users@acsiatech.com     35141 Apr 11 11:49 .bash_history
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com       220 Sep  5  2024 .bash_logout
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com      3771 Sep  5  2024 .bashrc
+drwx------ 82 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr 11 11:48 [01;34m.cache[0m
+drwx------ 48 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr 10 14:55 [01;34m.config[0m
+-rw-r--r--  1 root                 root                               1 Apr  8 11:11 Configuration.json
+-rw-r--r--  1 root                 root                             218 Jan 30 15:49 cracked.json
+drwxr-xr-x 18 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr 11 11:41 [01;34mDesktop[0m
+drwxr-xr-x 18 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 24 12:44 [01;34mDocuments[0m
+drwxr-xr-x  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 23 10:30 [01;34m.dotnet[0m
+drwxr-xr-x  7 adin.n@acsiatech.com domain users@acsiatech.com     20480 Apr 10 15:01 [01;34mDownloads[0m
+-rw-------  1 adin.n@acsiatech.com domain users@acsiatech.com        16 Dec 20 17:23 .emulator_console_auth_token
+drwxr-xr-x  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Feb  4 10:54 [01;34mfile[0m
+-rw-rw-r--  1 adin.n@acsiatech.com domain users@acsiatech.com       201 Mar 10 09:53 .gitconfig
+drwx------  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr  9 16:41 [01;34m.gnupg[0m
+drwxr-xr-x  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 30 12:00 [01;34m.gnuradio[0m
+drwxrwxr-x  8 adin.n@acsiatech.com domain users@acsiatech.com      4096 Nov 19 12:52 [01;34mgoogletest[0m
+drwxr-xr-x  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 16 13:58 [01;34m.gphoto[0m
+drwxr-xr-x 11 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 14 11:11 [01;34m.gradle[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com      2198 Mar 10 18:12 .gr_fftw_wisdom
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com         0 Jan 30 11:58 .gr_fftw_wisdom.lock
+drwxr-xr-x  2 root                 root                            4096 Jan 30 15:57 [01;34mhs[0m
+drwxr-xr-x  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 20 11:10 [01;34mIdeaProjects[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com       287 Feb 28 09:10 installer.sh
+drwxr-xr-x  4 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 20 15:32 [01;34m.java[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com       125 Mar 10 14:43 .Komorebi.prop
+-rw-------  1 adin.n@acsiatech.com domain users@acsiatech.com        20 Apr 10 17:20 .lesshst
+drwx------  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 22 12:41 [01;34m.lldb[0m
+drwx------  5 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 20 14:02 [01;34m.local[0m
+drwx------  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 16 09:03 [01;34m.Microsoft[0m
+drwx------  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 15 17:29 [01;34m.mozilla[0m
+drwxr-xr-x  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 28 13:02 [01;34m.mplayer[0m
+drwxr-xr-x  4 adin.n@acsiatech.com domain users@acsiatech.com     12288 Apr  8 17:25 [01;34mMusic[0m
+drwxr-xr-x 79 adin.n@acsiatech.com domain users@acsiatech.com      4096 Feb 12 12:17 [01;34mnode_modules[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com        90 Feb 26 18:09 notes
+drwxr-xr-x  4 adin.n@acsiatech.com domain users@acsiatech.com      4096 Feb 11 17:15 [01;34m.npm[0m
+drwxr-xr-x  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 15 13:29 [01;34m.openjfx[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com       142 Feb 12 12:17 package.json
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com     56843 Feb 12 12:17 package-lock.json
+drwxr-xr-x  7 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr  8 14:33 [01;34mPictures[0m
+drwx------  3 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 15 11:21 [01;34m.pki[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com       809 Dec 28 19:09 .profile
+drwxr-xr-x  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 15 10:54 [01;34mPublic[0m
+drwxr-xr-x  7 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 30 15:09 [01;34mPyrit[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com 769302528 Jan 15 14:07 [01;31mqtlibs.zip[0m
+drwxr-xr-x 44 adin.n@acsiatech.com root                            4096 Mar 15 16:20 [01;34mQTWorks[0m
+-rw-rw-r--  1 adin.n@acsiatech.com domain users@acsiatech.com         0 Nov 28 15:05 .selected_editor
+drwx------ 13 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 20 12:04 [01;34msnap[0m
+drwx------  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr  2 09:05 [01;34m.ssh[0m
+-rw-r--r--  1 adin.n@acsiatech.com domain users@acsiatech.com         0 Sep  5  2024 .sudo_as_admin_successful
+drwxr-xr-x  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 17 17:25 [01;34mTemplates[0m
+drwx------  6 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 15 17:29 [01;34m.thunderbird[0m
+drwxr-xr-x  4 adin.n@acsiatech.com domain users@acsiatech.com      4096 Mar 17 14:59 [01;34mVideos[0m
+drwxr-xr-x  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr  9 13:06 [01;34m.vmware[0m
+drwxr-xr-x  4 adin.n@acsiatech.com domain users@acsiatech.com      4096 Jan 20 13:58 [01;34m.vscode[0m
+drwxrwxrwx  2 adin.n@acsiatech.com domain users@acsiatech.com      4096 Apr  7 12:58 [34;42m.vysor[0m
+-rw-rw-r--  1 adin.n@acsiatech.com domain users@acsiatech.com       287 Feb 10 14:57 .wget-hsts
+[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ e[Knano [K[K[K[K[Ksudo nano .bah[K[Kash
+.bash          .bash_history  .bash_logout   .bashrc        
+]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ sudo nano .bashrc 
+[?2004l[?2004h[?1049h[22;0;0t[1;19r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[17;52H(B[0;7m[ Reading... ](B[m[17;50H(B[0;7m[ Read 117 lines ](B[m[H(B[0;7m  GNU nano 6.2                                           .bashrc                                                     [1;116H(B[m[18d(B[0;7m^G(B[m Help[18;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[18;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[19d(B[0;7m^X(B[m Exit[19;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[19;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[2d[36m# ~/.bashrc: executed by bash(1) for non-login shells.[3d# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)[4d# for examples[6d# If not running interactively, don't do anything[7d[32mcase[39m(B[m (B[0;1m[31m$-[39m(B[m [32min[8;5H[39m(B[m*i*[32m)[39m(B[m [32m;;[9;7H[39m(B[m*[32m)[39m(B[m [32mreturn;;[10desac[12d[36m# don't put duplicate lines or lines starting with space in the history.[13d# See bash(1) for more options[14d[39m(B[mHISTCONTROL[32m=[39m(B[mignoreboth[16d[36m# append to the history file, don't overwrite it[2d[39m(B[m[?12l[?25h[?25l[?12l[?25h[3d[?25l[?12l[?25h[4d[?25l[?12l[?25h[5d[?25l[?12l[?25h[6d[?25l[?12l[?25h[7d[?25l[?12l[?25h[8d[?25l[?12l[?25h[9d[?25l[?12l[?25h[10d[?25l[?12l[?25h[11d[?25l[?12l[?25h[12d[?25l[?12l[?25h[13d[?25l[?12l[?25h[14d[?25l[?12l[?25h[15d[?25l[?12l[?25h[16d[?25l[?12l[?25h7[2;16r8
+[1;19r[16;1Hshopt(B[0;1m[35m -s[39m(B[m histappend[?25l[?12l[?25h7[2;16r8
+[1;19r[16;1H[?25l[?12l[?25h7[2;16r8
+[1;19r[16;1H[36m# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)[39m(B[m[?25l[?12l[?25h7[2;16r8
+[1;19r[16;1HHISTSIZE[32m=[39m(B[m1000[?25l[?12l[?25h7[2;16r8
+[1;19r[16;1HHISTFILESIZE[32m=[39m(B[m2000[?25l[17d[K[?12l[?25h7[2;17r8
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# check the window size after each command and, if necessary,[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# update the values of LINES and COLUMNS.[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1Hshopt(B[0;1m[35m -s[39m(B[m checkwinsize[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# If set, the pattern (B[0;1m[33m"**"(B[0m[36m used in a pathname expansion context will[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# match all files and zero or more directories and subdirectories.[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m#shopt -s globstar[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# make less more friendly for non-text input files, see lesspipe(1)[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32m[(B[0;1m[35m -x[39m(B[m /usr/bin/lesspipe [32m][39m(B[m [32m&&[39m(B[m [32meval[39m(B[m (B[0;1m[33m"$(SHELL=/bin/sh lesspipe)"[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# set variable identifying the chroot you work in (used in the prompt below)[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mif[39m(B[m [32m[(B[0;1m[35m -z[39m(B[m (B[0;1m[33m"${debian_chroot:-}"[39m(B[m [32m][39m(B[m [32m&&[39m(B[m [32m[(B[0;1m[35m -r[39m(B[m /etc/debian_chroot [32m];[39m(B[m [32mthen[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5Hdebian_chroot[32m=$((B[0;1m[34mcat[39m(B[m /etc/debian_chroot[32m)[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mfi[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# set a fancy prompt (non-color, unless we know we (B[0;1m[33m"want"(B[0m[36m color)[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mcase[39m(B[m (B[0;1m[33m"$TERM"[39m(B[m [32min[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5Hxterm-color[32m|[39m(B[m*-256color[32m)[39m(B[m color_prompt[32m=[39m(B[myes[32m;;[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mesac[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# uncomment for a colored prompt, if the terminal has the capability; turned[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# off by default to not distract the user: the focus in a terminal window[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# should be on the output of commands, not on the prompt[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m#force_color_prompt=yes[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mif[39m(B[m [32m[(B[0;1m[35m -n[39m(B[m (B[0;1m[33m"$force_color_prompt"[39m(B[m [32m];[39m(B[m [32mthen[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5H[32mif[39m(B[m [32m[(B[0;1m[35m -x[39m(B[m /usr/bin/tput [32m][39m(B[m [32m&&[39m(B[m tput setaf 1 [32m>&[39m(B[m/dev/null[32m;[39m(B[m [32mthen[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;8H[36m[1K # We have color support; assume it's compliant with Ecma-48[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;8H[36m[1K # (ISO/IEC-6429). (Lack of such support is extremely rare, and such[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;8H[36m[1K # a case would tend to support setf rather than setaf.)[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;9Hcolor_prompt[32m=[39m(B[myes[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5H[32melse[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;9Hcolor_prompt[32m=[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5H[32mfi[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mfi[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mif[39m(B[m [32m[[39m(B[m (B[0;1m[33m"$color_prompt"[39m(B[m [32m=[39m(B[m yes [32m];[39m(B[m [32mthen[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5HPS1[32m=(B[0;1m[33m'${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32melse[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5HPS1[32m=(B[0;1m[33m'${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mfi[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H(B[0;1m[34munset[39m(B[m color_prompt force_color_prompt[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# If this is an xterm set the title to user@host:dir[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mcase[39m(B[m (B[0;1m[33m"$TERM"[39m(B[m [32min[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1Hxterm*[32m|[39m(B[mrxvt*[32m)[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5HPS1[32m=(B[0;1m[33m"\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5H[32m;;[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H*[32m)[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5H[32m;;[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mesac[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# enable color support of ls and also add handy aliases[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mif[39m(B[m [32m[(B[0;1m[35m -x[39m(B[m /usr/bin/dircolors [32m];[39m(B[m [32mthen[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5Htest(B[0;1m[35m -r[39m(B[m ~/.dircolors [32m&&[39m(B[m [32meval[39m(B[m (B[0;1m[33m"$(dircolors -b ~/.dircolors)"[39m(B[m [32m||[39m(B[m [32meval[39m(B[m (B[0;1m[33m"$(dircolors -b)"[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5Halias ls[32m=(B[0;1m[33m'ls --color=auto'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;4H[36m #alias dir=(B[0;1m[33m'dir --color=auto'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;4H[36m #alias vdir=(B[0;1m[33m'vdir --color=auto'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5Halias (B[0;1m[34mgrep(B[0m[32m=(B[0;1m[33m'grep --color=auto'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5Halias fgrep[32m=(B[0;1m[33m'fgrep --color=auto'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5Halias egrep[32m=(B[0;1m[33m'egrep --color=auto'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mfi[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# colored GCC warnings and errors[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m#export GCC_COLORS=(B[0;1m[33m'error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# some more ls aliases[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1Halias ll[32m=(B[0;1m[33m'ls -alF'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1Halias la[32m=(B[0;1m[33m'ls -A'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1Halias l[32m=(B[0;1m[33m'ls -CF'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# Add an (B[0;1m[33m"alert"(B[0m[36m alias for long running commands.  Use like so:[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m#   sleep 10; alert[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1Halias alert[32m=(B[0;1m[33m'notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e [39m(B[0;7m>[16;1H(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# Alias definitions.[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# You may want to put all your additions into a separate file like[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# ~/.bash_aliases, instead of adding them here directly.[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# See /usr/share/doc/bash-doc/examples in the bash-doc package.[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mif[39m(B[m [32m[(B[0;1m[35m -f[39m(B[m ~/.bash_aliases [32m];[39m(B[m [32mthen[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5H. ~/.bash_aliases[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mfi[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# enable programmable completion features (you don't need to enable[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# this, if it's already enabled in /etc/bash.bashrc and /etc/profile[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[36m# sources /etc/bash.bashrc).[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mif[39m(B[m [32m![39m(B[m shopt -oq posix[32m;[39m(B[m [32mthen[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;3H[32mif[39m(B[m [32m[(B[0;1m[35m -f[39m(B[m /usr/share/bash-completion/bash_completion [32m];[39m(B[m [32mthen[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5H. /usr/share/bash-completion/bash_completion[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;3H[32melif[39m(B[m [32m[(B[0;1m[35m -f[39m(B[m /etc/bash_completion [32m];[39m(B[m [32mthen[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;5H. /etc/bash_completion[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;3H[32mfi[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[32mfi[39m(B[m[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[11d[?25l[?12l[?25h[12d[?25l[?12l[?25h[13d[?25l[?12l[?25h[14d[?25l[?12l[?25h[15d[?25l[?12l[?25h[16d[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[1;66H(B[0;7m*[116G(B[m[?12l[?25h[16de[?25l[?12l[?25hx[?25l[?12l[?25hp[?25l[?12l[?25ho[?25l[?12l[?25hr[?25l[?12l[?25h[32mexport[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h P[?25l[?12l[?25hA[?25l[?12l[?25hT[?25l[?12l[?25hH[?25l[?12l[?25h[32m:[39m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[32m=[39m(B[m[?25l[?12l[?25h[32m$[39m(B[m[?25l[?12l[?25h(B[0;1m[31m$P[39m(B[m[?25l[?12l[?25h(B[0;1m[31mA[39m(B[m[?25l[?12l[?25h(B[0;1m[31mT[39m(B[m[?25l[?12l[?25h(B[0;1m[31mH[39m(B[m[?25l[?12l[?25h[42m [49m(B[m[?25l[?12l[?25h [?25l[?12l[?25h[32m:[39m(B[m[?25l/home/adin.n@acsiatech.com/Desktop/scripts[?12l[?25h[?25l[?12l[?25h7[2;17r8[17d
+[1;19r[16;1H[?25l[18;17H             (B[0;7mM-D(B[m DOS Format[15X[18;59H(B[0;7mM-A(B[m Append      [81G       (B[0;7mM-B(B[m Backup File[K[19;2H(B[0;7mC(B[m Cancel[17G             (B[0;7mM-M(B[m Mac Format[15X[19;59H(B[0;7mM-P(B[m Prepend     [81G       (B[0;7m^T(B[m Browse[K[17d(B[0;7mFile Name to Write: .bashrc                                                                                          [17;28H(B[m[?12l[?25h[?25l[17;51H[1K (B[0;7m[ Writing... ](B[m[K[1;66H(B[0;7m [116G(B[m[17;50H(B[0;7m[ Wrote 118 lines ](B[m[18;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut          (B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[19;2H(B[0;7mX(B[m Exit  [17G(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace      (B[0;7m^U(B[m Paste        (B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[?12l[?25h[16d[?25l[17d[J[19d[?12l[?25h[19;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ sudo nano .bashrc 
+[?2004l[?2004h[?1049h[22;0;0t[1;19r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[17;52H(B[0;7m[ Reading... ](B[m[17;50H(B[0;7m[ Read 118 lines ](B[m[H(B[0;7m  GNU nano 6.2                                           .bashrc                                                     [1;116H(B[m[18d(B[0;7m^G(B[m Help[18;17H(B[0;7m^O(B[m Write Out    (B[0;7m^W(B[m Where Is     (B[0;7m^K(B[m Cut[18;65H(B[0;7m^T(B[m Execute[81G(B[0;7m^C(B[m Location     (B[0;7mM-U(B[m Undo[19d(B[0;7m^X(B[m Exit[19;17H(B[0;7m^R(B[m Read File    (B[0;7m^\(B[m Replace[49G(B[0;7m^U(B[m Paste[19;65H(B[0;7m^J(B[m Justify[81G(B[0;7m^/(B[m Go To Line   (B[0;7mM-E(B[m Redo[2d[36m# ~/.bashrc: executed by bash(1) for non-login shells.[3d# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)[4d# for examples[6d# If not running interactively, don't do anything[7d[32mcase[39m(B[m (B[0;1m[31m$-[39m(B[m [32min[8;5H[39m(B[m*i*[32m)[39m(B[m [32m;;[9;7H[39m(B[m*[32m)[39m(B[m [32mreturn;;[10desac[12d[36m# don't put duplicate lines or lines starting with space in the history.[13d# See bash(1) for more options[14d[39m(B[mHISTCONTROL[32m=[39m(B[mignoreboth[16d[36m# append to the history file, don't overwrite it[2d[39m(B[m[?12l[?25h[?25l[?12l[?25h[4d[?25l[?12l[?25h[6d[?25l[?12l[?25h[8d[?25l[?12l[?25h[10d[?25l[?12l[?25h[12d[?25l[?12l[?25h[14d[?25l[?12l[?25h[16d[?25l[?12l[?25h7[2;16r8[2S[1;19r[15;1Hshopt(B[0;1m[35m -s[39m(B[m histappend[16d[?25l[?12l[?25h7[2;16r8[2S[1;19r[15;1H[36m# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)[16d[39m(B[mHISTSIZE[32m=[39m(B[m1000[?25l[17d[K[?12l[?25h7[2;17r8[2S[1;19r[15;1HHISTFILESIZE[32m=[39m(B[m2000[16d[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m# check the window size after each command and, if necessary,[16d# update the values of LINES and COLUMNS.[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1Hshopt(B[0;1m[35m -s[39m(B[m checkwinsize[16d[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m# If set, the pattern (B[0;1m[33m"**"(B[0m[36m used in a pathname expansion context will[16d# match all files and zero or more directories and subdirectories.[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m#shopt -s globstar[16d[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m# make less more friendly for non-text input files, see lesspipe(1)[16d[32m[(B[0;1m[35m -x[39m(B[m /usr/bin/lesspipe [32m][39m(B[m [32m&&[39m(B[m [32meval[39m(B[m (B[0;1m[33m"$(SHELL=/bin/sh lesspipe)"[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[16;1H[36m# set variable identifying the chroot you work in (used in the prompt below)[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[32mif[39m(B[m [32m[(B[0;1m[35m -z[39m(B[m (B[0;1m[33m"${debian_chroot:-}"[39m(B[m [32m][39m(B[m [32m&&[39m(B[m [32m[(B[0;1m[35m -r[39m(B[m /etc/debian_chroot [32m];[39m(B[m [32mthen[16;5H[39m(B[mdebian_chroot[32m=$((B[0;1m[34mcat[39m(B[m /etc/debian_chroot[32m)[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[32mfi[16d[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m# set a fancy prompt (non-color, unless we know we (B[0;1m[33m"want"(B[0m[36m color)[16d[32mcase[39m(B[m (B[0;1m[33m"$TERM"[39m(B[m [32min[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;5Hxterm-color[32m|[39m(B[m*-256color[32m)[39m(B[m color_prompt[32m=[39m(B[myes[32m;;[16desac[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[16;1H[36m# uncomment for a colored prompt, if the terminal has the capability; turned[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m# off by default to not distract the user: the focus in a terminal window[16d# should be on the output of commands, not on the prompt[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m#force_color_prompt=yes[16d[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[32mif[39m(B[m [32m[(B[0;1m[35m -n[39m(B[m (B[0;1m[33m"$force_color_prompt"[39m(B[m [32m];[39m(B[m [32mthen[16;5Hif[39m(B[m [32m[(B[0;1m[35m -x[39m(B[m /usr/bin/tput [32m][39m(B[m [32m&&[39m(B[m tput setaf 1 [32m>&[39m(B[m/dev/null[32m;[39m(B[m [32mthen[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;8H[36m[1K # We have color support; assume it's compliant with Ecma-48[16;8H[1K # (ISO/IEC-6429). (Lack of such support is extremely rare, and such[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;8H[36m[1K # a case would tend to support setf rather than setaf.)[16;9H[39m(B[mcolor_prompt[32m=[39m(B[myes[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;5H[32melse[16d[39m(B[mcolor_prompt[32m=[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;5H[32mfi[16dfi[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[16;1H[32mif[39m(B[m [32m[[39m(B[m (B[0;1m[33m"$color_prompt"[39m(B[m [32m=[39m(B[m yes [32m];[39m(B[m [32mthen[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;5HPS1[32m=(B[0;1m[33m'${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '[16d(B[0m[32melse[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;5HPS1[32m=(B[0;1m[33m'${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '[16d(B[0m[32mfi[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H(B[0;1m[34munset[39m(B[m color_prompt force_color_prompt[16d[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m# If this is an xterm set the title to user@host:dir[16d[32mcase[39m(B[m (B[0;1m[33m"$TERM"[39m(B[m [32min[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1Hxterm*[32m|[39m(B[mrxvt*[32m)[16;5H[39m(B[mPS1[32m=(B[0;1m[33m"\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;5H[32m;;[16d[39m(B[m*[32m)[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;5H[32m;;[16desac[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[16;1H[36m# enable color support of ls and also add handy aliases[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[32mif[39m(B[m [32m[(B[0;1m[35m -x[39m(B[m /usr/bin/dircolors [32m];[39m(B[m [32mthen[16;5H[39m(B[mtest(B[0;1m[35m -r[39m(B[m ~/.dircolors [32m&&[39m(B[m [32meval[39m(B[m (B[0;1m[33m"$(dircolors -b ~/.dircolors)"[39m(B[m [32m||[39m(B[m [32meval[39m(B[m (B[0;1m[33m"$(dircolors -b)"[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;5Halias ls[32m=(B[0;1m[33m'ls --color=auto'[16;4H(B[0m[36m #alias dir=(B[0;1m[33m'dir --color=auto'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;4H[36m #alias vdir=(B[0;1m[33m'vdir --color=auto'[16d[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;5Halias (B[0;1m[34mgrep(B[0m[32m=(B[0;1m[33m'grep --color=auto'[16;5H[39m(B[malias fgrep[32m=(B[0;1m[33m'fgrep --color=auto'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;5Halias egrep[32m=(B[0;1m[33m'egrep --color=auto'[16d(B[0m[32mfi[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[16;1H[36m# colored GCC warnings and errors[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m#export GCC_COLORS=(B[0;1m[33m'error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'[16d[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m# some more ls aliases[16d[39m(B[malias ll[32m=(B[0;1m[33m'ls -alF'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1Halias la[32m=(B[0;1m[33m'ls -A'[16d[39m(B[malias l[32m=(B[0;1m[33m'ls -CF'[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[16;1H[36m# Add an (B[0;1m[33m"alert"(B[0m[36m alias for long running commands.  Use like so:[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m#   sleep 10; alert[16d[39m(B[malias alert[32m=(B[0;1m[33m'notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e [39m(B[0;7m>[16;1H(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[16;1H[36m# Alias definitions.[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m# You may want to put all your additions into a separate file like[16d# ~/.bash_aliases, instead of adding them here directly.[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m# See /usr/share/doc/bash-doc/examples in the bash-doc package.[16d[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[32mif[39m(B[m [32m[(B[0;1m[35m -f[39m(B[m ~/.bash_aliases [32m];[39m(B[m [32mthen[16;5H[39m(B[m. ~/.bash_aliases[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[32mfi[16d[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m# enable programmable completion features (you don't need to enable[16d# this, if it's already enabled in /etc/bash.bashrc and /etc/profile[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[36m# sources /etc/bash.bashrc).[16d[32mif[39m(B[m [32m![39m(B[m shopt -oq posix[32m;[39m(B[m [32mthen[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;3H[32mif[39m(B[m [32m[(B[0;1m[35m -f[39m(B[m /usr/share/bash-completion/bash_completion [32m];[39m(B[m [32mthen[16;5H[39m(B[m. /usr/share/bash-completion/bash_completion[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;3H[32melif[39m(B[m [32m[(B[0;1m[35m -f[39m(B[m /etc/bash_completion [32m];[39m(B[m [32mthen[16;5H[39m(B[m. /etc/bash_completion[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;3H[32mfi[16dfi[39m(B[m[?25l[?12l[?25h7[2;17r8[17d[2S[1;19r[15;1H[32mexport[39m(B[m PATH[32m=(B[0;1m[31m$PATH(B[0m[32m:[39m(B[m/home/adin.n@acsiatech.com/Desktop/scripts[16d[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[18d[J[19d[?12l[?25h[19;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: ~[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~[00m$ cd [K[K[Kcd ?D[K[KDesktop/
+[?2004l[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: ~/Desktop[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~/Desktop[00m$ cd c_programs/
+[?2004l[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: ~/Desktop/c_programs[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~/Desktop/c_programs[00m$ cd practice/[K[K[K[K[K[K[K[K[K[K[K[Kcd PyPros/
+[?2004l[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: ~/Desktop/c_programs/PyPros[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~/Desktop/c_programs/PyPros[00m$ ls
+[?2004l [0m[01;32m56364397.dcm[0m   [01;32m56364403.dcm[0m   [01;32m56364409.dcm[0m   [01;32m56364415.dcm[0m   ai.py        dicom.c        [01;34m'New Folder'[0m    test.py
+ [01;32m56364398.dcm[0m   [01;32m56364404.dcm[0m   [01;32m56364410.dcm[0m   [01;32m56364416.dcm[0m   [01;32ma.out[0m        Dicom.c         orthanc.json
+ [01;32m56364399.dcm[0m   [01;32m56364405.dcm[0m   [01;32m56364411.dcm[0m   [01;32m56364417.dcm[0m   [01;35mcar.jpg[0m      dicom_error.c   result.dcm
+ [01;32m56364400.dcm[0m   [01;32m56364406.dcm[0m   [01;32m56364412.dcm[0m   [01;32m56364418.dcm[0m   dc.c         dicom.py        soup.py
+ [01;32m56364401.dcm[0m   [01;32m56364407.dcm[0m   [01;32m56364413.dcm[0m   [01;32m56364419.dcm[0m   deepak.dcm   gen.py          t2.py
+ [01;32m56364402.dcm[0m   [01;32m56364408.dcm[0m   [01;32m56364414.dcm[0m   [01;32m56364420.dcm[0m   [01;35mdepak.jpg[0m    [01;35minput.jpg[0m       [01;35mtest.jpg[0m
+[?2004h]0;adin.n@acsiatech.com@ATCLWI2201: ~/Desktop/c_programs/PyPros[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~/Desktop/c_programs/PyPros[00m$ dcmdump 56364
+56364397.dcm  56364400.dcm  56364403.dcm  56364406.dcm  56364409.dcm  56364412.dcm  56364415.dcm  56364418.dcm
+56364398.dcm  56364401.dcm  56364404.dcm  56364407.dcm  56364410.dcm  56364413.dcm  56364416.dcm  56364419.dcm
+56364399.dcm  56364402.dcm  56364405.dcm  56364408.dcm  56364411.dcm  56364414.dcm  56364417.dcm  56364420.dcm
+]0;adin.n@acsiatech.com@ATCLWI2201: ~/Desktop/c_programs/PyPros[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~/Desktop/c_programs/PyPros[00m$ dcmdump 563644
+56364400.dcm  56364403.dcm  56364406.dcm  56364409.dcm  56364412.dcm  56364415.dcm  56364418.dcm  
+56364401.dcm  56364404.dcm  56364407.dcm  56364410.dcm  56364413.dcm  56364416.dcm  56364419.dcm  
+56364402.dcm  56364405.dcm  56364408.dcm  56364411.dcm  56364414.dcm  56364417.dcm  56364420.dcm  
+]0;adin.n@acsiatech.com@ATCLWI2201: ~/Desktop/c_programs/PyPros[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~/Desktop/c_programs/PyPros[00m$ dcmdump 5636441
+56364410.dcm  56364412.dcm  56364414.dcm  56364416.dcm  56364418.dcm  
+56364411.dcm  56364413.dcm  56364415.dcm  56364417.dcm  56364419.dcm  
+]0;adin.n@acsiatech.com@ATCLWI2201: ~/Desktop/c_programs/PyPros[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~/Desktop/c_programs/PyPros[00m$ dcmdump 5636441
+56364410.dcm  56364412.dcm  56364414.dcm  56364416.dcm  56364418.dcm  
+56364411.dcm  56364413.dcm  56364415.dcm  56364417.dcm  56364419.dcm  
+]0;adin.n@acsiatech.com@ATCLWI2201: ~/Desktop/c_programs/PyPros[01;32madin.n@acsiatech.com@ATCLWI2201[00m:[01;34m~/Desktop/c_programs/PyPros[00m$ dcmdump 56364419.dcm 
+[?2004l
+# Dicom-File-Format
+
+# Dicom-Meta-Information-Header
+# Used TransferSyntax: Little Endian Explicit
+(0002,0000) UL 210                                      #   4, 1 FileMetaInformationGroupLength
+(0002,0001) OB 00\01                                    #   2, 1 FileMetaInformationVersion
+(0002,0002) UI =CTImageStorage                          #  26, 1 MediaStorageSOPClassUID
+(0002,0003) UI [1.3.6.1.4.1.9590.100.1.2.139874495011803796936581874321917919568] #  64, 1 MediaStorageSOPInstanceUID
+(0002,0010) UI =LittleEndianExplicit                    #  20, 1 TransferSyntaxUID
+(0002,0012) UI [1.3.6.1.4.1.9590.100.1.3.100.9.4]       #  32, 1 ImplementationClassUID
+(0002,0013) SH [MATLAB IPT 9.4]                         #  14, 1 ImplementationVersionName
+
+# Dicom-Data-Set
+# Used TransferSyntax: Little Endian Explicit
+(0008,0005) CS [ISO_IR 100]                             #  10, 1 SpecificCharacterSet
+(0008,0008) CS [ORIGINAL\PRIMARY\AXIAL\HELICAL]         #  30, 4 ImageType
+(0008,0012) DA [20200311]                               #   8, 1 InstanceCreationDate
+(0008,0013) TM [114001.281]                             #  10, 1 InstanceCreationTime
+(0008,0016) UI =CTImageStorage                          #  26, 1 SOPClassUID
+(0008,0018) UI [1.3.6.1.4.1.9590.100.1.2.139874495011803796936581874321917919568] #  64, 1 SOPInstanceUID
+(0008,0020) DA (no value available)                     #   0, 0 StudyDate
+(0008,0022) DA (no value available)                     #   0, 0 AcquisitionDate
+(0008,0023) DA (no value available)                     #   0, 0 ContentDate
+(0008,0030) TM (no value available)                     #   0, 0 StudyTime
+(0008,0032) TM (no value available)                     #   0, 0 AcquisitionTime
+(0008,0033) TM (no value available)                     #   0, 0 ContentTime
+(0008,0050) SH (no value available)                     #   0, 0 AccessionNumber
+(0008,0060) CS [CT]                                     #   2, 1 Modality
+(0008,0070) LO (no value available)                     #   0, 0 Manufacturer
+(0008,0080) LO (no value available)                     #   0, 0 InstitutionName
+(0008,0081) ST (no value available)                     #   0, 0 InstitutionAddress
+(0008,0090) PN (no value available)                     #   0, 0 ReferringPhysicianName
+(0008,1010) SH (no value available)                     #   0, 0 StationName
+(0008,1030) LO [LUNG]                                   #   4, 1 StudyDescription
+(0008,103e) LO [Mediastinum 1.5]                        #  16, 1 SeriesDescription
+(0008,1070) PN (no value available)                     #   0, 0 OperatorsName
+(0008,1090) LO (no value available)                     #   0, 0 ManufacturerModelName
+(0010,0010) PN (no value available)                     #   0, 0 PatientName
+(0010,0020) LO [98.12.21]                               #   8, 1 PatientID
+(0010,0030) DA (no value available)                     #   0, 0 PatientBirthDate
+(0010,0040) CS (no value available)                     #   0, 0 PatientSex
+(0010,1010) AS (no value available)                     #   0, 0 PatientAge
+(0010,1020) DS [0]                                      #   2, 1 PatientSize
+(0010,1030) DS [0]                                      #   2, 1 PatientWeight
+(0010,4000) LT (no value available)                     #   0, 0 PatientComments
+(0018,0015) CS [CHEST]                                  #   6, 1 BodyPartExamined
+(0018,0022) CS [HELICAL]                                #   8, 1 ScanOptions
+(0018,0050) DS [1.5]                                    #   4, 1 SliceThickness
+(0018,0060) DS [120]                                    #   4, 1 KVP
+(0018,0090) DS [500]                                    #   4, 1 DataCollectionDiameter
+(0018,1020) LO (no value available)                     #   0, 0 SoftwareVersions
+(0018,1030) LO [Chest Helcal]                           #  12, 1 ProtocolName
+(0018,1050) DS [0.33]                                   #   4, 1 SpatialResolution
+(0018,1100) DS [423]                                    #   4, 1 ReconstructionDiameter
+(0018,1110) DS [1040]                                   #   4, 1 DistanceSourceToDetector
+(0018,1111) DS [570]                                    #   4, 1 DistanceSourceToPatient
+(0018,1120) DS [0]                                      #   2, 1 GantryDetectorTilt
+(0018,1130) DS [377.3]                                  #   6, 1 TableHeight
+(0018,1140) CS [CW]                                     #   2, 1 RotationDirection
+(0018,1150) IS [9528]                                   #   4, 1 ExposureTime
+(0018,1151) IS [92]                                     #   2, 1 XRayTubeCurrent
+(0018,1152) IS [69]                                     #   2, 1 Exposure
+(0018,1160) SH [SB]                                     #   2, 1 FilterType
+(0018,1210) SH [SB]                                     #   2, 1 ConvolutionKernel
+(0018,5100) CS [HFS]                                    #   4, 1 PatientPosition
+(0020,000d) UI [1.2.156.14702.1.1000.16.0.20200311113603875] #  44, 1 StudyInstanceUID
+(0020,000e) UI [1.2.156.14702.1.1000.16.1.2020031111365295300020004] #  52, 1 SeriesInstanceUID
+(0020,0010) SH [93725]                                  #   6, 1 StudyID
+(0020,0011) IS [5]                                      #   2, 1 SeriesNumber
+(0020,0012) IS [2]                                      #   2, 1 AcquisitionNumber
+(0020,0013) IS [152]                                    #   4, 1 InstanceNumber
+(0020,0032) DS [-192\-211.5\-677.700012]                #  24, 3 ImagePositionPatient
+(0020,0037) DS [1\0\0\0\1\0]                            #  12, 6 ImageOrientationPatient
+(0020,0052) UI [1.2.156.14702.1.1000.16.3.20200311113603953] #  44, 1 FrameOfReferenceUID
+(0020,1040) LO (no value available)                     #   0, 0 PositionReferenceIndicator
+(0020,1041) DS [677.7]                                  #   6, 1 SliceLocation
+(0028,0002) US 1                                        #   2, 1 SamplesPerPixel
+(0028,0004) CS [MONOCHROME2]                            #  12, 1 PhotometricInterpretation
+(0028,0010) US 512                                      #   2, 1 Rows
+(0028,0011) US 512                                      #   2, 1 Columns
+(0028,0030) DS [0.826172\0.826172]                      #  18, 2 PixelSpacing
+(0028,0100) US 16                                       #   2, 1 BitsAllocated
+(0028,0101) US 16                                       #   2, 1 BitsStored
+(0028,0
