@@ -1,0 +1,156 @@
+{
+    "classes": [
+        {
+            "className": "controller",
+            "lineNumber": 6,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 4,
+                    "name": "tempAdjust",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "speedaAdjust",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 6,
+                    "name": "followAdjust",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "val",
+                            "type": "int"
+                        }
+                    ],
+                    "index": 7,
+                    "name": "zoomAdjust",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "carTemp",
+                    "notify": "carTempChanged",
+                    "read": "carTemp",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setCarTemp"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 1,
+                    "name": "speed",
+                    "notify": "speedChanged",
+                    "read": "speed",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setSpeed"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 2,
+                    "name": "follow",
+                    "notify": "followChanged",
+                    "read": "follow",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setFollow"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 3,
+                    "name": "zoom",
+                    "notify": "zoomChanged",
+                    "read": "zoom",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setZoom"
+                }
+            ],
+            "qualifiedClassName": "controller",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "carTempChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "speedChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "followChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "zoomChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "controller.h",
+    "outputRevision": 68
+}

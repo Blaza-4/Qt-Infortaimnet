@@ -1,0 +1,148 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 15,
+                        "durationMicroseconds": 960,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 563,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 8
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 479,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 460,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 238,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "Cannot access value for name temp",
+                        "functionName": "onClicked",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 255,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 14,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "Cannot access value for name temp",
+                        "functionName": "text",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 511,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 32
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 29,
+                        "durationMicroseconds": 567,
+                        "errorMessage": "",
+                        "functionName": "verticalCenter",
+                        "line": 34
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 15,
+                        "durationMicroseconds": 434,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 49
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 18,
+                        "durationMicroseconds": 441,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 17,
+                        "durationMicroseconds": 429,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 472,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 249,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "Cannot access value for name temp",
+                        "functionName": "onClicked",
+                        "line": 61
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 22,
+                        "durationMicroseconds": 272,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 59
+                    }
+                ],
+                "filepath": "C:/QT_WORKS/Qt-Infortaimnet/infortainment/Controllers.qml"
+            }
+        ],
+        "moduleId": "infortainment(appinfortainment)"
+    }
+]

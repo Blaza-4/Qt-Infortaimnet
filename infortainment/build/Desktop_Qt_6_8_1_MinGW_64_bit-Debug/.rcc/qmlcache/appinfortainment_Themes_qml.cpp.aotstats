@@ -1,0 +1,60 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 506,
+                        "errorMessage": "Cannot access value for name Theme",
+                        "functionName": "backgroundcolor",
+                        "line": 4
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 314,
+                        "errorMessage": "Cannot access value for name Theme",
+                        "functionName": "fontcolor",
+                        "line": 5
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 292,
+                        "errorMessage": "Cannot access value for name Theme",
+                        "functionName": "bgcolor",
+                        "line": 6
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 35,
+                        "durationMicroseconds": 305,
+                        "errorMessage": "Cannot access value for name Theme",
+                        "functionName": "buttoncolor",
+                        "line": 7
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 696,
+                        "errorMessage": "Cannot access value for name Theme",
+                        "functionName": "paneleft",
+                        "line": 8
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 33,
+                        "durationMicroseconds": 338,
+                        "errorMessage": "Cannot access value for name Theme",
+                        "functionName": "panefirst",
+                        "line": 9
+                    }
+                ],
+                "filepath": "C:/QT_WORKS/Qt-Infortaimnet/infortainment/Themes.qml"
+            }
+        ],
+        "moduleId": "infortainment(appinfortainment)"
+    }
+]

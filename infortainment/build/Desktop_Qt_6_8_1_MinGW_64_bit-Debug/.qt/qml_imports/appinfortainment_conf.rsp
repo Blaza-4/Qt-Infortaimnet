@@ -1,0 +1,14 @@
+-rootPath
+C:/QT_WORKS/Qt-Infortaimnet/infortainment
+-cmake-output
+-output-file
+C:/QT_WORKS/Qt-Infortaimnet/infortainment/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/.qt/qml_imports/appinfortainment_conf.cmake
+-importPath
+C:/QT_WORKS/Qt-Infortaimnet/infortainment/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/infortainment
+-importPath
+C:/QT_WORKS/Qt-Infortaimnet/infortainment/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.8.1/mingw_64/qml
+-qrcFiles
+C:/QT_WORKS/Qt-Infortaimnet/infortainment/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/.qt/rcc/qmake_infortainment.qrc
+C:/QT_WORKS/Qt-Infortaimnet/infortainment/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/.qt/rcc/appinfortainment_raw_qml_0.qrc
